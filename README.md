@@ -1,4 +1,4 @@
-# xiaoz
+# 小项目，使用了vant组件库，使用了前后端分离的方式实现。这是我的练手demo项目。
 
 ## Project setup
 ```
