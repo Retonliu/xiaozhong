@@ -52,29 +52,7 @@ export default {
         return {
             HeadImg: "",
             dataAll: {
-                    /*"code": 0,
-                        "msg": "成功",
-                        "data": [
-                            {
-                                "userId": 1,
-                                "userName": "包头",
-                                "userHeadImg": "https://img.yzcdn.cn/vant/cat.jpeg",
-                                "vlog": {
-                                    "vlogId": "1",
-                                    "vlogTitle": "南澳之旅",
-                                    "vlogContext": "包头的第一个vlog",
-                                    "vlogImg": [
-                                        {
-                                            "img": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1754910039,1803584689&fm=26&gp=0.jpg"
-                                        }
-                                    ],
-                                    "support": 5,
-                                    "comment": 10,
-                                    "star": 10,
-                                    "time": "2020-08-28"
-                                }
-                            }
-                        ]*/
+
                     }
             
         }
